@@ -10,7 +10,6 @@ Esto te proporcionará información completa sobre cómo usar el comando git com
 ***
 ### `git config --global user.name "name"` 
 Este comando establece tu nombre de usuario que se asociará con los commits que realices en tus repositorios Git. El nombre se utiliza para identificar quién realizó un cambio particular en el código. 
-***
 
 ### `git config --global user.email "emailo@correo.com"`
  Este comando establece tu dirección de correo electrónico que se asociará con los commits. El correo electrónico es otra parte importante de la identificación del autor de un cambio en el código.
