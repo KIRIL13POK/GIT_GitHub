@@ -9,4 +9,5 @@ Este repositorio alberga la documentación para un curso introductorio sobre Git
 Seccion 2:
 * [01. Introducción a los fundamentos de Git](https://github.com/KIRIL13POK/GIT_GitHub/blob/main/Seccion_2/01_introduccionFundamentosGit.md)
 * [02. Primeros comandos de Git](https://github.com/KIRIL13POK/GIT_GitHub/blob/main/Seccion_2/02_primerosComandos.md)
+* [03. Primer repositorio de Git](https://github.com/KIRIL13POK/GIT_GitHub/blob/main/Seccion_2/3_%20nuestroPrimerRepositorio.md)
 
