@@ -44,7 +44,7 @@ En este punto, Git indica que los archivos mencionados no están siendo rastread
 
      * Añade todos los archivos modificados al área de preparación.
 
-![gitAddPunto(/img/gitAddPunto)]  
+![gitAddPunto(/img/gitAddPunto.png)]  
 
 Después de ejecutar `git add .`, Git comienza a rastrear los archivos mencionados, lo que implica que se están preparando para ser incluidos en el próximo commit y se registrarán sus cambios.
 
