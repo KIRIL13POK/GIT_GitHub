@@ -8,3 +8,25 @@ Esencialmente, los archivos no seguibles son aquellos que Git no tiene en cuenta
 
 ![untracked_file](/img/untracked_file.png)
 
+utilizando el comando `git add .`
+
+![untracked_fileGitAdd](/img/untracked_fileGitAdd.png)
+
+Cuando un archivo en Git muestra una **"A"** en su nombre, esto señala que el archivo se encuentra en **el área de preparación o staging area.** Este estado indica que el archivo ha sido modificado en tu directorio de trabajo y que has utilizado el comando git add para colocarlo en el área de preparación. 
+
+Cuando un archivo en Git muestra una **"M"** en su nombre, esto indica que el archivo ha sido modificado. La "M" se refiere a **"Modified"** en inglés. Esto significa que has realizado cambios en el archivo después de haber realizado su último commit. Estos cambios aún no se han agregado al área de preparación (staging area) mediante el comando git add, por lo que no están listos para ser confirmados en un nuevo commit.
+
+![modified](/img/modifiledM.png)
+
+ Puedes utilizar git diff para ver exactamente qué cambios se han realizado en el archivo.
+
+![modified](/img/gitDiff.png)
+
+Después de usar `git commit -m "mensaje"`, tus cambios quedan guardados de manera permanente en tu proyecto. Estos cambios se guardan en la rama en la que estás trabajando (generalmente, la rama principal). Puedes verlos en cualquier momento. El mensaje que escribas debe explicar de forma clara y breve qué cambios hiciste para que tú o tus colaboradores futuros comprendan su propósito.
+
+
+
+
+
+
+
