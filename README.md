@@ -11,4 +11,5 @@ Seccion 2:
 * [02. Primeros comandos de Git](https://github.com/KIRIL13POK/GIT_GitHub/blob/main/Seccion_2/02_primerosComandos.md)
 * [03. Primer repositorio de Git](https://github.com/KIRIL13POK/GIT_GitHub/blob/main/Seccion_2/3_%20nuestroPrimerRepositorio.md)
 * [04. ¿Qué hace git por nosotros en estos momentos?](https://github.com/KIRIL13POK/GIT_GitHub/blob/main/Seccion_2/04_queHaceGitPorNosotros.md)
+* [05. Cambiar nombre de la rama Master a Main](https://github.com/KIRIL13POK/GIT_GitHub/blob/main/Seccion_2/05_cambiar_nombre_de_la_rama.md)
 
