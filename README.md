@@ -6,7 +6,7 @@ En este repositorio, encontrarás todo lo necesario para comenzar desde cero y a
 
 Este repositorio alberga la documentación para un curso introductorio sobre Git y GitHub. Aprenderás desde los conceptos más simples hasta cómo colaborar en equipo utilizando estas herramientas esenciales en el desarrollo de software.
 
-Seccion 2:
+Sección 2:
 * [01. Introducción a los fundamentos de Git](https://github.com/KIRIL13POK/GIT_GitHub/blob/main/Seccion_2/01_introduccionFundamentosGit.md)
 * [02. Primeros comandos de Git](https://github.com/KIRIL13POK/GIT_GitHub/blob/main/Seccion_2/02_primerosComandos.md)
 * [03. Primer repositorio de Git](https://github.com/KIRIL13POK/GIT_GitHub/blob/main/Seccion_2/3_%20nuestroPrimerRepositorio.md)
@@ -16,4 +16,6 @@ Seccion 2:
 * [07. Git Parte 2: Crear, Preparar y Confirmar Cambios](https://github.com/KIRIL13POK/GIT_GitHub/blob/main/Seccion_2/07_Parte2_Git_CrearPrepararConfirmarCambios.md)
 * [08. Diferentes formas de añadir al Stage](https://github.com/KIRIL13POK/GIT_GitHub/blob/main/Seccion_2/08_GestionDeArchivosYCarpetasEnGitAgregarComodinesYDirectoriosVacios.md)
 * [09. Creando Alias para nuestros comandos](https://github.com/KIRIL13POK/GIT_GitHub/blob/main/Seccion_2/09_CreandoAliasParaComandos.md)
+Sección 3:
+*[01. Actualizar mensaje del commit y revertir commits](https://github.com/KIRIL13POK/GIT_GitHub/blob/main/Secci%C3%B3n_3/01_actualizarCommitYRevertirCommits.md)
 
