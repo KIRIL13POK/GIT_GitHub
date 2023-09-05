@@ -19,5 +19,5 @@ Sección 2:
 
   
 Sección 3:
-*[01. Actualizar mensaje del commit y revertir commits](https://github.com/KIRIL13POK/GIT_GitHub/blob/main/Secci%C3%B3n_3/01_actualizarCommitYRevertirCommits.md)
+* [01. Actualizar mensaje del commit y revertir commits](https://github.com/KIRIL13POK/GIT_GitHub/blob/main/Secci%C3%B3n_3/01_actualizarCommitYRevertirCommits.md)
 
