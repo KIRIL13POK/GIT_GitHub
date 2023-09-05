@@ -14,4 +14,5 @@ Seccion 2:
 * [05. Cambiar nombre de la rama Master a Main](https://github.com/KIRIL13POK/GIT_GitHub/blob/main/Seccion_2/05_cambiar_nombre_de_la_rama.md)
 * [06. Git Parte 1: Crear, Preparar y Confirmar Cambios](https://github.com/KIRIL13POK/GIT_GitHub/blob/main/Seccion_2/06_Git_CrearPrepararConfirmarCambios.md)
 * [07. Git Parte 2: Crear, Preparar y Confirmar Cambios](https://github.com/KIRIL13POK/GIT_GitHub/blob/main/Seccion_2/07_Parte2_Git_CrearPrepararConfirmarCambios.md)
+* [08. Diferentes formas de añadir al Stage](https://github.com/KIRIL13POK/GIT_GitHub/blob/main/Seccion_2/08_GestionDeArchivosYCarpetasEnGitAgregarComodinesYDirectoriosVacios.md)
 
