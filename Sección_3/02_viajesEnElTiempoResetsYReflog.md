@@ -1,3 +1,5 @@
+![git](https://git-scm.com/images/logos/1color-darkbg@2x.png)
+
 La clase subraya la importancia de mantener un historial de versiones limpio y organizado en un repositorio Git, así como la necesidad de comprender los comandos antes de usarlos, especialmente aquellos que pueden tener un impacto destructivo en el proyecto. También la práctica  de trabajar con ramas para evitar problemas con el historial principal del repositorio.
 
 ****

@@ -1,4 +1,6 @@
-# Los alias en Git
+ ![git](https://git-scm.com/images/logos/1color-darkbg@2x.png)
+ 
+ # Los alias en Git
 
  Son atajos o nombres cortos que puedes crear para comandos Git más largos y frecuentes. Se utilizan para simplificar la ejecución de comandos complejos o para personalizar los comandos según tus preferencias. Los alias permiten ahorrar tiempo y esfuerzo al evitar escribir comandos largos repetidamente. Puedes configurar alias globales que se aplican a todos tus repositorios, lo que facilita su uso en cualquier proyecto Git que tengas en tu sistema.
  ***

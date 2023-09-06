@@ -1,3 +1,5 @@
+![git](https://git-scm.com/images/logos/1color-darkbg@2x.png)
+
 Vamos a profundizar en cómo editar y mejorar nuestros commits en Git y otros aspectos clave. A medida que avanzamos en nuestro proyecto, es común cometer errores o necesitar ajustar cosas. Git simplifica el proceso, permitiéndonos llevarlo a cabo de manera efectiva y sin inconvenientes, especialmente en lo que respecta a los commits y más.
 
 ### ``git commit -am "el mensaje"`
