@@ -22,4 +22,5 @@ Sección 3:
 * [01. Actualizar mensaje del commit y revertir commits](https://github.com/KIRIL13POK/GIT_GitHub/blob/main/Secci%C3%B3n_3/01_actualizarCommitYRevertirCommits.md)
 * [02. Viajes en el tiempo, resets y reflog](https://github.com/KIRIL13POK/GIT_GitHub/blob/main/Secci%C3%B3n_3/02_viajesEnElTiempoResetsYReflog.md)
 * [03. Cambiar el nombre y eliminar archivos mediante git ](https://github.com/KIRIL13POK/GIT_GitHub/blob/main/Secci%C3%B3n_3/03_CambiarElNombreYEliminarArchivosMedianteGit.md)
+* [04. Cambiar el nombre y eliminar archivos fuera de git](https://github.com/KIRIL13POK/GIT_GitHub/blob/main/Secci%C3%B3n_3/04_cambiarElNombreYEliminarArchivosFueraDeGit.md)
 
