@@ -1,3 +1,5 @@
+![git](https://git-scm.com/images/logos/1color-darkbg@2x.png)
+
 En el proyecto de la Sección 4, estamos considerando cambios en "villanos.md", pero su inclusión final es incierta. Por lo tanto, creamos una nueva rama para realizar estos cambios de forma aislada y evaluar si son necesarios en la versión final del proyecto. Esto nos permite mantener la flexibilidad y tomar decisiones más tarde sobre la incorporación o eliminación de estos cambios sin afectar la rama principal.
 
 ### `git checkout -b <nombre-de-rama> `
@@ -30,10 +32,14 @@ Urgentemente, para continuar, debemos eliminar "Daredevil" del archivo "heroes.m
 * Paso 3.
 
 A continuación, hemos realizado todos los cambios necesarios en ambas ramas y ahora estamos listos para fusionarlas en nuestro proyecto.
-* `git checkout master` -Para unir los cambios, debes estar trabajando en la rama de destino, es decir, la rama en la que deseas incorporar los cambios de la otra rama.**Es importante estar en la rama de destino antes de realizar la fusión para asegurarte de que los cambios se incorporen en la rama correcta.**
-`git merche <nombre-de-rama>`
+* `git checkout master` Para unir los cambios, debes estar trabajando en la rama de destino, es decir, la rama en la que deseas incorporar los cambios de la otra rama.
+***
+**Es importante estar en la rama de destino antes de realizar la fusión para asegurarte de que los cambios se incorporen en la rama correcta.**
+***
 
-Cuando no se identifican conflictos, logramos el resultado deseado: las dos ramas se unen, y la rama "master" con sus modificaciones incorpora todas las modificaciones de la rama "rama2-villanos":
+`git merche <rama2-villanos>` Unimos las ramas , los cambios de rama2-villanos
+
 
 ![resultado de la union](/img/402_PUNTO-DE-UNION.png)
 
+Cuando no se identifican conflictos, logramos el resultado deseado: las dos ramas se unen, y la rama "master" con sus modificaciones incorpora todas las modificaciones de la rama "rama2-villanos".
