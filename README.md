@@ -24,3 +24,7 @@ Sección 3:
 * [03. Cambiar el nombre y eliminar archivos mediante git ](https://github.com/KIRIL13POK/GIT_GitHub/blob/main/Secci%C3%B3n_3/03_CambiarElNombreYEliminarArchivosMedianteGit.md)
 * [04. Cambiar el nombre y eliminar archivos fuera de git](https://github.com/KIRIL13POK/GIT_GitHub/blob/main/Secci%C3%B3n_3/04_cambiarElNombreYEliminarArchivosFueraDeGit.md)
 
+Sección 4:
+* [ Introducción a la sección de ramas ](https://github.com/KIRIL13POK/GIT_GitHub/blob/main/Secci%C3%B3n_4/seccion4GestionDeRamasEnUnSistemaDeControlDeVersionesGit.md)
+
+
