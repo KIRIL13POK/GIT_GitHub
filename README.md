@@ -28,5 +28,6 @@ Sección 4:
 * [ Introducción a la sección de ramas ](https://github.com/KIRIL13POK/GIT_GitHub/blob/main/Secci%C3%B3n_4/seccion4GestionDeRamasEnUnSistemaDeControlDeVersionesGit.md)
 * [01. Merge: Fast-Forward](https://github.com/KIRIL13POK/GIT_GitHub/blob/main/Secci%C3%B3n_4/01_mergeFastForward.md)
 * [02. Merge: Union automática](https://github.com/KIRIL13POK/GIT_GitHub/blob/main/Secci%C3%B3n_4/02_mergeUnionAutomatica.md)
+* [03. Merge: Uniones con conflictos](https://github.com/KIRIL13POK/GIT_GitHub/blob/main/Secci%C3%B3n_4/03_mergeUnionesConConflictos.md)
 
 
