@@ -6,8 +6,6 @@ Un conflicto en Git es una situación en la que diferentes ramas o colaboradores
 
 Preparamos una nueva rama para realizar cambios y la hemos registrado.
 
-![rama3-conflicto](/img/403_rama3-conflicto.png)
-
 Regresamos a la rama master para realizar modificaciones y registrarlos adecuadamente.
 
 ![master](/img/403_master-conflicto.png)
