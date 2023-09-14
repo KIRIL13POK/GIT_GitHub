@@ -1,4 +1,6 @@
-# Un conflicto
+ ![git](https://git-scm.com/images/logos/1color-darkbg@2x.png)
+
+ # Un conflicto
 
 Un conflicto en Git es una situación en la que diferentes ramas o colaboradores han modificado la misma parte de un archivo o línea de código, y Git no puede combinar estos cambios automáticamente. Requiere la intervención manual de un desarrollador para decidir qué cambios se deben conservar y cómo se deben combinar. Resolver un conflicto implica examinar y editar el archivo en conflicto para asegurar que el resultado final sea coherente y funcional antes de continuar con la fusión de ramas. Es una parte esencial del trabajo colaborativo con Git para garantizar la integridad del código compartido.
 
