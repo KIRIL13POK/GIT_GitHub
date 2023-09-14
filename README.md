@@ -30,5 +30,6 @@ Sección 4:
 * [02. Merge: Union automática](https://github.com/KIRIL13POK/GIT_GitHub/blob/main/Secci%C3%B3n_4/02_mergeUnionAutomatica.md)
 * [03. Merge: Uniones con conflictos](https://github.com/KIRIL13POK/GIT_GitHub/blob/main/Secci%C3%B3n_4/03_mergeUnionesConConflictos.md)
 * [04. Tags - Etiquetas](https://github.com/KIRIL13POK/GIT_GitHub/blob/main/Secci%C3%B3n_4/04_tagsEtiquetas.md)
+* [05. Creando etiquetas - Tags](https://github.com/KIRIL13POK/GIT_GitHub/blob/main/Secci%C3%B3n_4/05_creacionDeEtiquetas.md#git-tag--a-v10-hash--m-mensaje)
 
 
