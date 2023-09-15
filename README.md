@@ -32,4 +32,7 @@ Sección 4:
 * [04. Tags - Etiquetas](https://github.com/KIRIL13POK/GIT_GitHub/blob/main/Secci%C3%B3n_4/04_tagsEtiquetas.md)
 * [05. Creando etiquetas - Tags](https://github.com/KIRIL13POK/GIT_GitHub/blob/main/Secci%C3%B3n_4/05_creacionDeEtiquetas.md#git-tag--a-v10-hash--m-mensaje)
 
+Sección 5:
+* [Introducción a la sección](https://github.com/KIRIL13POK/GIT_GitHub/blob/main/Secci%C3%B3n_5/introduccion.md)
+
 
