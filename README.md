@@ -34,5 +34,6 @@ Sección 4:
 
 Sección 5:
 * [Introducción a la sección](https://github.com/KIRIL13POK/GIT_GitHub/blob/main/Secci%C3%B3n_5/introduccion.md)
+* [01. Git Stash](https://github.com/KIRIL13POK/GIT_GitHub/blob/main/Secci%C3%B3n_5/01_gitStash.md)
 
 
