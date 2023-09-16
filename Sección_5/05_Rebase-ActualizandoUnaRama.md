@@ -28,11 +28,27 @@ Resultado:
 
 Se utiliza para eliminar una rama en Git. En este caso, rama-misiones-completadas es el nombre de la rama que deseas eliminar.
 
+
 ***
+### La relevancia de completar un merge tras un rebase en Git
+
 **Cuando se realiza un rebase y avance rápido, todos los commits de la rama secundaria se "reproducen" en la rama principal, en este caso, "master". Como resultado, la rama principal ("master") ya contiene todos los commits de la rama secundaria ("rama-misiones-completadas"), y la historia de commits está ordenada y lineal.**
 
 **En este contexto, no es necesario realizar un merge adicional porque la rama principal ya incluye los cambios de la rama secundaria y no hay bifurcación en el historial de commits. Los cambios de ambas ramas se han incorporado con éxito en la rama principal mediante el rebase.**
 
 **Por lo tanto, en este caso específico, puedes eliminar la rama secundaria ("rama-misiones-completadas") después de un rebase exitoso sin necesidad de realizar un merge adicional. Sin embargo, siempre es importante verificar que todos los cambios se hayan incorporado correctamente antes de eliminar cualquier rama.**
+
 ***
+
+En este caso  Git indica que se trata de eliminar la rama 'rama-misiones-completadas',y que  ha detectado que esta rama no ha sido completamente fusionada (merged) con la rama actual o con la rama principal, lo que podría resultar en la pérdida de cambios no incorporados.
+
+![error](/img/505_git-branc-d.ERROr.png)
+
+### `git branch D rama-misiones-completadas`
+
+ La opción -D (mayúscula) forzará la eliminación de la rama sin importar si los cambios se han fusionado o no.
+
+
+
+
 
