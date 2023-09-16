@@ -36,5 +36,6 @@ Sección 5:
 * [Introducción a la sección](https://github.com/KIRIL13POK/GIT_GitHub/blob/main/Secci%C3%B3n_5/introduccion.md)
 * [01. Git Stash](https://github.com/KIRIL13POK/GIT_GitHub/blob/main/Secci%C3%B3n_5/01_gitStash.md)
 * [02. Conflictos con el stash](https://github.com/KIRIL13POK/GIT_GitHub/blob/main/Secci%C3%B3n_5/02_ConflictoSStash.md)
+* [03. Stash avanzado](https://github.com/KIRIL13POK/GIT_GitHub/blob/main/Secci%C3%B3n_5/03_.stashAvanzado.md)
 
 
