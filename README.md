@@ -39,5 +39,6 @@ Sección 5:
 * [03. Stash avanzado](https://github.com/KIRIL13POK/GIT_GitHub/blob/main/Secci%C3%B3n_5/03_.stashAvanzado.md)
 * [04. Introducción al git rebase](https://github.com/KIRIL13POK/GIT_GitHub/blob/main/Secci%C3%B3n_5/04_IntroduccionGitRebase.md)
 * [05. Rebase - Actualizando una Rama](https://github.com/KIRIL13POK/GIT_GitHub/blob/main/Secci%C3%B3n_5/05_Rebase-ActualizandoUnaRama.md)
+* [06. Rebase - SquasH](https://github.com/KIRIL13POK/GIT_GitHub/blob/main/Secci%C3%B3n_5/06_RebaseSquash.md)
 
 
