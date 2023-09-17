@@ -32,13 +32,17 @@ Se utiliza para eliminar una rama en Git. En este caso, rama-misiones-completada
 ***
 ### La relevancia de completar un merge tras un rebase en Git
 
-**Cuando se realiza un rebase y avance rápido, todos los commits de la rama secundaria se "reproducen" en la rama principal, en este caso, "master". Como resultado, la rama principal ("master") ya contiene todos los commits de la rama secundaria ("rama-misiones-completadas"), y la historia de commits está ordenada y lineal.**
+Cuando se realiza un rebase y avance rápido, todos los commits de la rama secundaria se "reproducen" en la rama principal, en este caso, "master". Como resultado, la rama principal ("master") ya contiene todos los commits de la rama secundaria ("rama-misiones-completadas"), y la historia de commits está ordenada y lineal.
 
-**En este contexto, no es necesario realizar un merge adicional porque la rama principal ya incluye los cambios de la rama secundaria y no hay bifurcación en el historial de commits. Los cambios de ambas ramas se han incorporado con éxito en la rama principal mediante el rebase.**
 
-**Por lo tanto, en este caso específico, puedes eliminar la rama secundaria ("rama-misiones-completadas") después de un rebase exitoso sin necesidad de realizar un merge adicional. Sin embargo, siempre es importante verificar que todos los cambios se hayan incorporado correctamente antes de eliminar cualquier rama.**
+Sin embargo, es importante tener en cuenta que el rebase solo afecta al historial de commits, no a los archivos del proyecto en sí. En algunos casos, puede haber archivos que solo estén presentes en la rama "rama-misiones-completadas" y no se hayan incluido en la rama principal("master").
+
+Por lo tanto, realizar un merge después de un rebase sigue siendo importante para asegurarse de que todos los cambios, incluyendo los archivos, se hayan incorporado correctamente en la rama principal. Esto garantiza que el proyecto esté completo y que no falten archivos importantes.
+
+**En resumen, mientras que el rebase ayuda a mantener un historial de commits limpio y lineal, el merge es esencial para garantizar la integridad y completitud del proyecto, especialmente cuando se trata de archivos que solo están presentes en la rama principal.**
 
 ***
+#### En el caso de no tener que realizar un merge: 
 
 En este caso  Git indica que se trata de eliminar la rama 'rama-misiones-completadas',y que  ha detectado que esta rama no ha sido completamente fusionada (merged) con la rama actual o con la rama principal, lo que podría resultar en la pérdida de cambios no incorporados.
 
