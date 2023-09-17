@@ -38,5 +38,6 @@ Sección 5:
 * [02. Conflictos con el stash](https://github.com/KIRIL13POK/GIT_GitHub/blob/main/Secci%C3%B3n_5/02_ConflictoSStash.md)
 * [03. Stash avanzado](https://github.com/KIRIL13POK/GIT_GitHub/blob/main/Secci%C3%B3n_5/03_.stashAvanzado.md)
 * [04. Introducción al git rebase](https://github.com/KIRIL13POK/GIT_GitHub/blob/main/Secci%C3%B3n_5/04_IntroduccionGitRebase.md)
+* [05. Rebase - Actualizando una Rama](https://github.com/KIRIL13POK/GIT_GitHub/blob/main/Secci%C3%B3n_5/05_Rebase-ActualizandoUnaRama.md)
 
 
