@@ -43,4 +43,8 @@ Sección 5:
 * [07. Rebase - Reword](https://github.com/KIRIL13POK/GIT_GitHub/blob/main/Secci%C3%B3n_5/07_RebaseReword.md)
 * [08. Rebase - Edit](https://github.com/KIRIL13POK/GIT_GitHub/blob/main/Secci%C3%B3n_5/08_Rebase_edit.md)
 
+Sección 6:
+
+* [Introducción GitHub](https://github.com/KIRIL13POK/GIT_GitHub/blob/main/Seccion_6/introduccion_GitHub.md)
+
 
